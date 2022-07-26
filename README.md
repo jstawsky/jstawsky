@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on research and simply develop my skills to the best of my abilities.
 - 📫 How to reach me:
         - email: joaquinstawsky@gmail.com
-        - LinkedIn: www.linkedin.com/in/joaquin-stawsky-72218a1a2
+        - LinkedIn: [www.linkedin.com/in/joaquin-stawsky](www.linkedin.com/in/joaquin-stawsky)
 
 <!---
 jstawsky/jstawsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
