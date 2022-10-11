@@ -1,5 +1,5 @@
 Hi, I’m @jstawsky (Joaquin Stawsky)
-<br>  I recently recieved a B.S. Magna Cum Laude in Mathematics (Emphasis in Science [Astronomy]) from San Diego State University with a Distinction in Mathematics. In the following public repositories you will find a collection of professional and personal projects, which I contribute to as they come. As a result of NDAs signed and Academic Integrity agreements I am not able to display many of my best works here, but I hope you can find what you are looking for.
+<br>  I recently received a B.S. Magna Cum Laude in Mathematics (Emphasis in Science [Astronomy]) from San Diego State University with a Distinction in Mathematics. In the following public repositories you will find a collection of professional and personal projects, which I contribute to as they come. As a result of NDAs signed and Academic Integrity agreements I am not able to display many of my best works here, but I hope you can find what you are looking for.
 </br>
 Always open to starting new projects, you can reach me by:
 - email: joaquinstawsky@gmail.com
