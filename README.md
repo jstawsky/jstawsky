@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jstawsky
-- 👀 I’m interested in astronomy, soccer, and data science.
-- 🌱 I’m currently learning Applied Mathematics at San Diego State University, with an emphasis in Astronomy.
-- 💞️ I’m looking to collaborate on research and simply develop my skills to the best of my abilities.
-- 📫 How to reach me:
-        - email: joaquinstawsky@gmail.com
-        - LinkedIn: [www.linkedin.com/in/joaquin-stawsky](www.linkedin.com/in/joaquin-stawsky)
+Hi, I’m @jstawsky (Joaquin Stawsky)
+   I recently recieved a B.S. Magna Cum Laude in Mathematics (Emphasis in Science [Astronomy]) from San Diego State University with a Distinction in Mathematics. In the following public repositories you will find a collection of professional and personal projects, which I contribute to as they come. As a result of NDAs signed and Academic Integrity agreements I am not able to display many of my best works here, but I hope you can find what you are looking for.
+Always open to starting new projects, you can reach me by:
+- email: joaquinstawsky@gmail.com
+- LinkedIn: [www.linkedin.com/in/joaquin-stawsky](www.linkedin.com/in/joaquin-stawsky)
 
 <!---
 jstawsky/jstawsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
