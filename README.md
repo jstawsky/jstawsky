@@ -1,5 +1,5 @@
 Hi, I’m @jstawsky (Joaquin Stawsky)
-<br>  I recently received a B.S. Magna Cum Laude in Mathematics (Emphasis in Science [Astronomy]) from San Diego State University with a Distinction in Mathematics. In the following public repositories you will find a collection of professional and personal projects, including Python, R, and HTML codes for Climate Mathematics and Mathematical Modeling Modeling textbooks, and a couple of final projects.
+<br>  I am a recent graduate with a Magna Cum Laude B.S. in Mathematics (Emphasis in Science) from San Diego State University with a Distinction in Mathematics. In the following public repositories you will find a collection of professional and personal projects; including Python, R, and HTML codes for Climate Mathematics and Mathematical Modeling Modeling textbooks.
 </br>
 Always open to new projects, you can reach me by:
 - email: joaquinstawsky@gmail.com
